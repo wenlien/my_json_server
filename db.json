@@ -6,6 +6,9 @@
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": {
+      "first": "Stanley",
+      "last": "Huang"
+    }
   }
 }
